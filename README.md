@@ -44,7 +44,6 @@ I'm a backend developer focused on building secure, scalable systems with Java a
 | :--- | :--- | :--- | :--- |
 | **[Trading App](https://github.com/adarsh062702/trading-app-backend)** | Secure engine for stock trading. Handles wallet management and real-time portfolio updates. | `Spring Boot 3` `JWT` | 🟢 Stable |
 | **[Smart Finance](https://github.com/adarsh062702/Smart-Finance-App)** | Intelligent ledger that calculates financial health scores and recommends investments. | `Java` `MySQL` `JPA` | 🟢 Stable |
-
 ---
 
 ## GitHub Statistics
@@ -62,8 +61,8 @@ I'm a backend developer focused on building secure, scalable systems with Java a
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-bindal-31a40321a/](https://www.linkedin.com/in/adarsh-bindal-1b5769221/))
-[![Email](https://img.shields.io/badge/Email-adarshbindal0627@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bindal890@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-bindal-1b5769221/)
+[![Email](https://img.shields.io/badge/Email-bindal890@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bindal890@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
 
