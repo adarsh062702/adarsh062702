@@ -1,16 +1,26 @@
-## Hi there 👋
+# Adarsh
 
-<!--
-**adarsh062702/adarsh062702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java, Spring Boot, REST APIs, MySQL, and scalable backend systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+Java • Spring Boot • Hibernate • JPA • MySQL • REST APIs • Maven • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Trading App Backend
+Short technical description
+
+### Smart Finance App
+Short technical description
+
+### Smart Toll Payment System
+Short technical description
+
+## Current Focus
+- Backend architecture
+- API development
+- Database design
+- DSA and problem solving
+
+## Connect
+LinkedIn
+Email
