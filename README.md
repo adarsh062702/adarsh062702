@@ -44,7 +44,6 @@ I'm a backend developer focused on building secure, scalable systems with Java a
 | :--- | :--- | :--- | :--- |
 | **[Trading App](https://github.com/adarsh062702/trading-app-backend)** | Secure engine for stock trading. Handles wallet management and real-time portfolio updates. | `Spring Boot 3` `JWT` | 🟢 Stable |
 | **[Smart Finance](https://github.com/adarsh062702/Smart-Finance-App)** | Intelligent ledger that calculates financial health scores and recommends investments. | `Java` `MySQL` `JPA` | 🟢 Stable |
-| **Smart Toll** | Automated transaction handler for high-volume tolling operations with zero manual overhead. | `Java` `Spring` | 🛠️ Scaling |
 
 ---
 
