@@ -22,5 +22,5 @@ Short technical description
 - DSA and problem solving
 
 ## Connect
-LinkedIn
-Email
+LinkedIn - https://www.linkedin.com/in/adarsh-bindal-1b5769221/
+Email - bindal890@gmail.com
