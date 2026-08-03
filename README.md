@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=220&section=header&text=Adarsh%20Bindal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20REST%20APIs&descAlignY=60&descSize=18"/>
 
-# Hi 👋 I'm Adarsh Bindal
+# Hi I'm Adarsh Bindal
 
 ### Java Backend Developer | Spring Boot | Spring Security | REST APIs | MySQL
 
